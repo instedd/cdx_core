@@ -1,3 +1,7 @@
+## Warning: this repo has been deprecated. You can find `cdx` gem at [it's new home](https://github.com/instedd/cdp/tree/master/deps/cdx_core)
+
+-------
+
 # Cdx
 
 This gem contains CDX core fields specification
